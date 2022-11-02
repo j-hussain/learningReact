@@ -4,11 +4,7 @@ import App from "./App";
 
 class Main extends React.Component {
   render() {
-    return (
-      <div>
-        <App />
-      </div>
-    );
+    return (<App />);
   }
 }
 
