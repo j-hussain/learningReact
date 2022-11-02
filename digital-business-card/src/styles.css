@@ -76,7 +76,6 @@ button {
 }
 
 button > span { 
-    /* padding: 11px 0 9px 0; */
     font-size: 14px;
     line-height: 16px;
     color: #374151;
